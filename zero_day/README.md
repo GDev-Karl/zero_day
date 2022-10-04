@@ -1,1 +1,1 @@
-My first zero day day at alx_SE
+My zero day at software engineer at alx
